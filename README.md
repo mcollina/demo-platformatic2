@@ -1,1 +1,1 @@
-# demo-platformatic2
+# demo-platformatic
